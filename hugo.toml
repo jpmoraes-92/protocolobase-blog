@@ -6,3 +6,8 @@ googleAnalytics = "G-TB1PR5T4BV"
 
 [params]
   env = "production"
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
