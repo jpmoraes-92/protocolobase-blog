@@ -2,3 +2,7 @@ baseURL = 'https://protocolobase.com.br/'
 languageCode = 'pt-br'
 title = 'Protocolo Base'
 theme = 'PaperMod'
+googleAnalytics = "G-TB1PR5T4BV"
+
+[params]
+  env = "production"
