@@ -1,6 +1,6 @@
 ---
 title: "Política de Privacidade e Termos de Uso"
-date: 2026-08-23T15:30:00-03:00
+date: 2026-08-20T00:00:00-03:00
 draft: false
 ---
 
