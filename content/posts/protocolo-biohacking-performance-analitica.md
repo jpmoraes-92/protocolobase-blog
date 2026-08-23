@@ -23,7 +23,10 @@ Vamos desconstruir esse sistema e entender como otimizar o nosso *hardware* biol
 
 Se você quer que um sistema dure, você precisa realizar testes de estresse periódicos. O corpo humano opera sob a mesma premissa: músculos e ossos não crescem por livre e espontânea vontade; eles se adaptam a uma demanda imposta. Sem resistência, a infraestrutura atrofia.
 
-O maior erro de quem busca longevidade é tratar exercícios aeróbicos leves como a única solução, ignorando o treino de força. Músculo é um órgão endócrino vital. Ele otimiza a sensibilidade à insulina e cria uma "armadura" contra o declínio metabólico. 
+O maior erro de quem busca longevidade é tratar exercícios aeróbicos leves como a única solução, ignorando o treino de força. Músculo é um órgão endócrino vital. Ele otimiza a sensibilidade à insulina e cria uma "armadura" contra o declínio metabólico.
+
+![Treino de força e Progressão de Carga](/images/treino-forca.jpg)
+*Legenda: Análise dos equipamentos e ciclos de força.*
 
 O segredo aqui é o rastreamento. Ir à academia e mover pesos aleatoriamente não é treino; é apenas suar. A verdadeira adaptação neuromuscular acontece quando você força o sistema de maneira documentada e metódica (o famoso *progressive overload* ou sobrecarga progressiva). Quando estou executando um supino com cargas altas, o que garante a evolução não é o esforço pontual daquele dia, mas o registro absoluto da tonelagem: séries multiplicadas por repetições, multiplicadas pelo peso. Se a planilha me mostra que o volume total de carga subiu em relação à semana passada, a métrica de sucesso foi atingida.
 
@@ -52,6 +55,9 @@ A preparação de alimentos deixa de ser um "achismo" exaustivo e passa a ser um
 ## 4. Otimização do Sono: O Ciclo de Manutenção do Sistema
 
 Na engenharia de software, se você cancelar as rotinas de limpeza de banco de dados e a coleta de lixo (*garbage collection*) rodando em *background*, o servidor inevitavelmente vai apresentar lentidão e, eventualmente, travar por falta de memória. Na biologia, esse processo vital de manutenção noturna chama-se sono. O sono não é um estado de inatividade; é o período crítico e de alto processamento onde o cérebro consolida memórias, elimina neurotoxinas (através do sistema glinfático) e o corpo realiza a síntese proteica para reparar a infraestrutura muscular danificada pelo treino de força.
+
+![Mulheres executando o biohacking ](/images/treino-forca-feminino.jpg)
+*Legenda: Análise do ciclo de força feminino.*
 
 Operar com privação de sono é o equivalente biológico a acumular dívida técnica. Você pode até conseguir mascarar o problema temporariamente com "gambiarras" operacionais — como doses cavalares de cafeína ou energéticos —, mas o colapso sistêmico virá na forma de regulação hormonal destruída, resistência à insulina e perda severa de foco e capacidade analítica durante o dia.
 
