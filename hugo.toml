@@ -11,3 +11,10 @@ googleAnalytics = "G-TB1PR5T4BV"
   changefreq = "weekly"
   filename = "sitemap.xml"
   priority = 0.5
+
+[menu]
+  [[menu.main]]
+  identifier = "privacidade"
+  name = "Política de Privacidade"
+  url = "/politica-de-privacidade/"
+  weight = 10
