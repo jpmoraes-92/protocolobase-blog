@@ -1,0 +1,48 @@
+/* 1. PALETA DE CORES (MODO CLARO) */
+:root {
+    --primary: #1e293b; /* Texto base escuro (Slate 800) para redução de fadiga */
+    --secondary: #475569; /* Subtítulos (Slate 600) */
+    --theme: #ffffff; /* Fundo puro e limpo */
+    --entry: #f8fafc; /* Fundo dos cards de artigos (Slate 50) */
+    --link-color: #2563eb; /* Azul técnico para links de afiliados (Blue 600) */
+}
+
+/* 2. PALETA DE CORES (MODO ESCURO) */
+.dark {
+    --primary: #f8fafc; /* Texto base claro (Slate 50) */
+    --secondary: #94a3b8; /* Subtítulos (Slate 400) */
+    --theme: #0f172a; /* Fundo escuro profundo (Slate 900) */
+    --entry: #1e293b; /* Fundo dos cards de artigos (Slate 800) */
+    --link-color: #60a5fa; /* Azul claro para links (Blue 400) */
+}
+
+/* 3. TIPOGRAFIA E ESPAÇAMENTO (REDUÇÃO DE RUÍDO COGNITIVO) */
+body {
+    /* Força o uso da melhor fonte nativa do sistema do usuário (Apple, Windows, Android) */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.8; /* Aumenta o respiro entre as linhas de texto */
+    letter-spacing: 0.2px;
+}
+
+/* 4. HIERARQUIA DE TÍTULOS (GOVERNANÇA VISUAL) */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    margin-top: 1.5em; /* Afasta o título do parágrafo anterior */
+}
+
+/* 5. DESTAQUE ESTRATÉGICO PARA LINKS DE CONVERSÃO */
+.post-content a {
+    color: var(--link-color);
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
+    font-weight: 500;
+    transition: all 0.2s ease;
+}
+
+.post-content a:hover {
+    color: var(--primary);
+    background-color: rgba(37, 99, 235, 0.1);
+    border-radius: 4px;
+}
