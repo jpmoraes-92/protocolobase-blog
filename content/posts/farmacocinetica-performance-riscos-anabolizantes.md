@@ -32,7 +32,7 @@ A premissa "vou tomar só um pouco para dar um empurrão, somando à minha produ
 
 Do ponto de vista de uma análise estratégica, os ganhos de força e quebra de platôs sob o uso de ergogênicos são inegáveis e documentados de forma robusta pela literatura médica. No entanto, o custo de manutenção desse estado inflacionado recai sobre a infraestrutura de filtragem e transporte.
 
-1.  **O Gargalo Hepático (Toxicidade):** Muitos fármacos voltados para performance, especialmente os orais (17-alfa-alquelados), são desenhados quimicamente para sobreviver à primeira passagem pelo fígado. Esse processo estressa severamente os hepatócitos. É o equivalente a rodar um *script* mal otimizado que consome toda a memória RAM.
+1.  **O Gargalo Hepático (Toxicidade):** Muitos fármacos voltados para performance, especialmente os orais (17-alfa-alquelados), são desenhados quimicamente para sobreviver à primeira passagem pelo fígado. Esse processo estressa severamente os hepatócitos. É o equivalente a rodar um *script* mal otimizado que consome toda a memória RAM. Como governança de redução de danos, a utilização de hepatoprotetores clínicos comprovados, como um [**Suplemento de Silimarina (Cardo Mariano)**](https://meli.la/1jmux8M), é essencial para acelerar a regeneração enzimática.
 2.  **A Infraestrutura Cardiovascular:** A testosterona exógena em níveis suprafisiológicos atua diretamente na medula óssea, estimulando a hiperprodução de glóbulos vermelhos (hematócrito). O sangue se torna mais viscoso. Um sistema de tubulação (artérias) bombeando um fluido espesso exige muito mais pressão da bomba central (coração), levando à hipertrofia do ventrículo esquerdo e hipertensão arterial grave.
 
 ![Exemplo de dashboard de exames com marcadores de risco cardiovascular e hepático](/images/dashboard-sanguineo.jpg)
@@ -44,11 +44,11 @@ Se a decisão individual (e os riscos legais e biológicos) for avançar para o 
 
 O protocolo de redução de danos exige observabilidade contínua. Sem dados concretos (o seu *log* de erros interno), é impossível tomar decisões corretivas. Um planejamento de performance exige auditoria antes, durante e após qualquer intervenção farmacológica. 
 
-O seu "Dashboard Sanguíneo" deve ser monitorado com rigor analítico, cobrindo, no mínimo:
+O seu "Dashboard" de saúde deve ser monitorado com rigor analítico, cobrindo, no mínimo:
 *   **Marcadores Hepáticos:** TGO, TGP, Gama-GT (para auditar o estresse do fígado).
 *   **Perfil Lipídico Completo:** O uso crônico de anabolizantes destrói o HDL (colesterol bom) e eleva o LDL, acelerando o acúmulo de placas de ateroma.
+*   **Telemetria de Pressão:** Acompanhar a sobrecarga cardíaca não pode ser terceirizado apenas para visitas esporádicas ao médico. O uso de um [**Monitor de Pressão Arterial Digital**](https://meli.la/1s5QXLB) de uso doméstico é a ferramenta primária para acusar se a espessura do seu sangue está colapsando a rede vascular.
 *   **Hemograma Completo:** Com atenção estrita ao nível de Hematócrito (viscosidade do sangue). Se passar do limite seguro, o risco de trombose e infarto escala exponencialmente.
-*   **Marcadores Hormonais:** Testosterona Total e Livre, Estradiol (E2) e Prolactina. A conversão da testosterona excedente em estrogênio (aromatização) exige o uso de inibidores pontuais para evitar ginecomastia e retenção hídrica severa.
 
 ## 5. Conclusão: A Auditoria da Performance
 

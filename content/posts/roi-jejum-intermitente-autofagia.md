@@ -58,8 +58,8 @@ A transição para um estado adaptado ao jejum deve ser tratada como a implanta�
 O protocolo com a melhor relação risco/benefício para rotinas profissionais é o **16:8** (16 horas de jejum seguidas por uma janela alimentar de 8 horas). 
 
 ### A Gestão Diária:
-*   **O que não quebra o contrato (Jejum):** Água mineral, café puro (sem açúcar ou adoçantes) e chás. O café atua como um acelerador da autofagia e supressor de apetite através da inibição dos receptores de adenosina.
-*   **A Quebra do Jejum:** O momento mais crítico do protocolo. Romper 16 horas de jejum com carboidratos refinados causa um pico de insulina tão violento que neutraliza grande parte dos benefícios do dia. A quebra deve ser orquestrada com proteínas de alto valor biológico e gorduras saudáveis.
+*   **O que não quebra o contrato (Jejum):** Água mineral, café puro (sem açúcar ou adoçantes) e chás. O café atua como um acelerador da autofagia e supressor de apetite através da inibição dos receptores de adenosina. Para evitar as flutuações de alcaloides do café coado comercial e garantir a dosagem exata sem quebrar o estado metabólico, a intervenção laboratorial mais eficiente é a [**Cafeína Pura Encapsulada**](https://meli.la/1vSdzzo).
+*   **A Quebra do Jejum:** O momento mais crítico do protocolo. Romper 16 horas de jejum com carboidratos refinados causa um pico de insulina tão violento que neutraliza grande parte dos benefícios do dia. A quebra deve ser orquestrada com proteínas de alto valor biológico e gorduras saudáveis. A injeção de uma matriz limpa e de altíssima biodisponibilidade, como o [**Whey Protein Isolado**](https://meli.la/1TSYk3i), garante a sinalização imediata de preservação muscular sem o estresse de uma digestão pesada inicial.
 
 ![Tela de aplicativo ou planilha mostrando a progressão das horas de jejum](/images/dashboard-jejum.jpg)
 *Legenda: A utilização de métricas visuais ajuda a manter o compliance do protocolo e a auditar o tempo exato para o início da cetose.*
