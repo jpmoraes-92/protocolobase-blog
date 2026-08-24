@@ -1,6 +1,6 @@
 ---
 title: "O ROI do Jejum Intermitente: Autofagia, Clareza Mental e Performance Sistêmica"
-date: 2026-08-24T08:00:00-03:00
+date: 2026-08-24T07:00:00-03:00
 draft: false
 categories: ["Nutrição de Precisão"]
 tags: ["Jejum Intermitente", "Autofagia", "Biohacking", "Cognição"]
