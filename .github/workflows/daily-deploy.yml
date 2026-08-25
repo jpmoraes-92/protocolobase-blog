@@ -1,0 +1,19 @@
+name: Deploy Matinal Automatizado (CRON)
+
+on:
+  schedule:
+    # A sintaxe CRON: Minuto Hora Dia Mes Dia_da_semana
+    # Roda todos os dias às 10:00 UTC (07:00 Horário de Brasília)
+    - cron: '0 10 * * *'
+  
+  # O workflow_dispatch permite que você rode esse script manualmente no painel do GitHub para testes
+  workflow_dispatch: 
+
+jobs:
+  trigger-build:
+    name: Aciona API da Cloudflare
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispara o Webhook de Deploy
+        run: |
+          curl -X POST "${{ secrets.CLOUDFLARE_DEPLOY_HOOK }}"
