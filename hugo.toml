@@ -6,6 +6,7 @@ googleAnalytics = "G-TB1PR5T4BV"
 
 [params]
   env = "production"
+  comments = true
 
 [sitemap]
   changefreq = "weekly"
@@ -18,3 +19,6 @@ googleAnalytics = "G-TB1PR5T4BV"
   name = "Política de Privacidade"
   url = "/politica-de-privacidade/"
   weight = 10
+
+[markup.goldmark.renderer]
+  unsafe = true
