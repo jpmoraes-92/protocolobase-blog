@@ -13,7 +13,7 @@ A interface física entre o engenheiro e o código é o teclado. A maioria dos p
 
 A cada tecla pressionada dessa forma, a força cinética residual que não é absorvida pelo hardware é dissipada pela fáscia e pelos tendões do antebraço e dos dedos. 
 
-![Infográfico anatômico das linhas de tensão no antebraço causadas por digitação em teclados de membrana](![Infográfico anatômico das linhas de tensão no antebraço causadas por digitação em teclados de membrana](/static/images/antebraco-digitacao.png)
+![Infográfico anatômico das linhas de tensão no antebraço causadas por digitação em teclados de membrana]![Infográfico anatômico das linhas de tensão no antebraço causadas por digitação em teclados de membrana](/static/images/antebraco-digitacao.png)
 
 Lembre-se da regra de infraestrutura articular documentada no [Artigo sobre Manutenção Preventiva](/posts/infraestrutura-articular-manutencao-preventiva/): tendões são tecidos avasculares. Eles não possuem fluxo sanguíneo para reparar microlesões rapidamente. O impacto contínuo gera inflamação progressiva, culminando em Lesão por Esforço Repetitivo (LER) ou Síndrome do Túnel do Carpo.
 
