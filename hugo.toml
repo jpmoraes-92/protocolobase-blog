@@ -22,3 +22,24 @@ googleAnalytics = "G-TB1PR5T4BV"
 
 [markup.goldmark.renderer]
   unsafe = true
+
+# ==========================================
+# GOVERNANÇA E NAVEGAÇÃO PRINCIPAL
+# ==========================================
+[[menu.main]]
+  identifier = "sobre"
+  name = "Sobre o Protocolo"
+  url = "/sobre/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "contato"
+  name = "Contato"
+  url = "/contato/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "termos"
+  name = "Governança e Termos"
+  url = "/termos-de-uso/"
+  weight = 30
