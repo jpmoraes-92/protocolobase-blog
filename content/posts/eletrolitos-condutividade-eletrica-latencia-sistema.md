@@ -19,7 +19,7 @@ Se você ingere um volume massivo de água pura durante o expediente ou no trein
 
 O corpo humano opera como uma rede elétrica complexa. Cada célula possui uma voltagem de membrana. 
 
-![Diagrama esquemático mostrando a Bomba de Sódio e Potássio na membrana celular](/images/Bomba-de-sódio-e-potássio.jpg)
+![Diagrama esquemático mostrando a Bomba de Sódio e Potássio na membrana celular](/images/bomba-de-sodio-e-potassio.jpg)
 *Legenda: A Bomba de Sódio-Potássio. Este mecanismo consome cerca de 20% de todo o ATP (energia) do seu corpo em repouso apenas para manter a diferença de potencial elétrico pronta para disparar sinais.*
 
 Para que um pensamento analítico profundo ocorra ou para que um músculo se contraia com força máxima, os íons de sódio precisam entrar na célula e os de potássio precisam sair. Se a matéria-prima (eletrólitos) for escassa, a diferença de potencial cai. O seu sistema passa a operar em "modo de economia de energia" forçado.

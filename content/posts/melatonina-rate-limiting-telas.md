@@ -4,7 +4,7 @@ date: 2026-09-02T07:13:00-03:00
 draft: false
 categories: ["Engenharia Sistêmica"]
 tags: ["Melatonina", "Luz Azul", "Rate Limiting", "Ritmo Circadiano"]
-description: "A mecânica do ritmo circadiano. Como monitores e smartphones enviam pacotes de dados incorretos e bloqueiam o deploy do hormônio do sono."
+description: "A mecânica do ritmo circadiano. Como monitores e smartphones enviam pacotes de dados incorretos e bloqueiam o deploy do   hormônio do sono."
 ---
 
 ## 1. O Filtro de Requisições e a Glândula Pineal
