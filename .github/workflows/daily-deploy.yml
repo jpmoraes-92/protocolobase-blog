@@ -1,10 +1,7 @@
 name: Deploy Matinal Automatizado (CRON)
 
 on:
-  schedule:
-    # Desloca o disparo para 07:13 (BRT) / 10:13 (UTC) para evitar o gargalo global
-    - cron: '13 10 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # Mantém apenas a ativação manual de emergência
 
 jobs:
   trigger-build:
