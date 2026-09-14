@@ -1,0 +1,14 @@
+{{- /* Remove a barra inicial do caminho do markdown para o Hugo Pipes encontrar o arquivo */ -}}
+{{- $url := strings.TrimPrefix "/" .Destination -}}
+
+{{- /* Busca a imagem na pasta /assets/ */ -}}
+{{- $img := resources.Get $url -}}
+
+{{- if $img -}}
+  {{- /* Aplica conversão para WebP, redimensiona para um max width de 800px e 75% de qualidade */ -}}
+  {{- $webp := $img.Resize "800x webp q75" -}}
+  <img src="{{ $webp.RelPermalink }}" alt="{{ .Text }}" loading="lazy" width="{{ $webp.Width }}" height="{{ $webp.Height }}" />
+{{- else -}}
+  {{- /* Fallback de segurança: se a imagem for um link externo, renderiza normalmente */ -}}
+  <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" loading="lazy" />
+{{- end -}}
