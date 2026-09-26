@@ -1,2 +1,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1886714626821416"
      crossorigin="anonymous"></script>
+
+{{- /* Aplica noindex em páginas de listagem (tags e categorias) para evitar Thin Content no SEO */ -}}
+{{- if or (eq .Kind "taxonomy") (eq .Kind "term") -}}
+<meta name="robots" content="noindex, follow">
+{{- end -}}
